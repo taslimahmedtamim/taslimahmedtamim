@@ -36,7 +36,7 @@
 
 - GitHub: [taslimahmedtamim](https://github.com/taslimahmedtamim)
 - Email: taslimahmedtamim4u@gmail.com
-
+- LinkedIn: [Taslim Ahmed Tamim](https://www.linkedin.com/in/taslim-ahmed-tamim/)
 
 <!-- Add more links as you wish -->
 
