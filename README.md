@@ -9,7 +9,7 @@
 ## 🚀 About Me
 
 - 🌱 Currently learning **Full Stack Web Development** using the **MERN stack**
-- 🚩 Active in competitive programming on [Codeforces](https://codeforces.com/profile/taslim_ahmed_tamim), [LeetCode](https://leetcode.com/u/taslim_ahmed_tamim), [VJudge](https://vjudge.net/user/taslim_tamim)
+- 🚩 Active in competitive programming
   
 - 👨‍💻 Passionate about coding, problem-solving, and building scalable solutions
 - 🛡️ Interested in **Cyber Security** and eager to explore more in this field
