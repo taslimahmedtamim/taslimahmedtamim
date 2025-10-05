@@ -35,9 +35,8 @@
 ## 📫 Connect with Me
 
 - GitHub: [taslimahmedtamim](https://github.com/taslimahmedtamim)
-- Codeforces: [taslim_ahmed_tamim](https://codeforces.com/profile/taslim_ahmed_tamim)
-- LeetCode: [taslim_ahmed_tamim](https://leetcode.com/u/taslim_ahmed_tamim)
-- VJudge: [taslim_tamim](https://vjudge.net/user/taslim_tamim)
+- Email: taslimahmedtamim4u@gmail.com
+
 
 <!-- Add more links as you wish -->
 
