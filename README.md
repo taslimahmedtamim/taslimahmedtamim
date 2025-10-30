@@ -1,95 +1,28 @@
-<h1 align="center">👋 Hi, I'm <span style="color:#58a6ff">Taslim Ahmed Tamim</span></h1>
+<h1 align="center">Hi 👋, I'm Taslim Ahmed Tamim</h1>
+<h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-<p align="center">
-  🎓 <b>Student, Green University of Bangladesh</b> • 🖥️ <b>B.Sc in CSE</b> • 💻 <b>Developer & Competitive Programmer</b>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=taslimahmedtamim&label=Profile%20views&color=0e75b6&style=flat" alt="taslimahmedtamim" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=taslimahmedtamim" alt="taslimahmedtamim" /></a> </p>
+
+- 🔭 I’m currently working on **Uconnect**
+
+- 🌱 I’m currently learning **PERN Stack**
+
+- 📫 How to reach me **taslimahmedtamim.tat@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/taslimahmedtamim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="taslimahmedtamim" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/taslim_ahmed_tamim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="taslim_ahmed_tamim" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/taslim_ahmed_tamim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="taslim_ahmed_tamim" height="30" width="40" /></a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=taslimahmedtamim&theme=darkhub&no-frame=true&row=1&column=8&margin-w=10&margin-h=10" alt="GitHub Profile Trophies for taslimahmedtamim" />
-  </a>
-</p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
----
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=taslimahmedtamim&show_icons=true&locale=en&layout=compact" alt="taslimahmedtamim" /></p>
 
-## 🚀 About Me
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=taslimahmedtamim&show_icons=true&locale=en" alt="taslimahmedtamim" /></p>
 
-- 🌱 Currently learning <b>Full‑Stack Web Development</b> with the <b>MERN</b> stack  
-- 🚩 Active in <b>competitive programming</b>  
-- 👨‍💻 Passionate about <b>coding</b>, <b>problem‑solving</b>, and building <b>scalable solutions</b>  
-- 🛡️ Interested in <b>Cyber Security</b> and eager to explore more in this field
-
----
-
-## 🛠️ Skills
-
-- <b>Languages:</b> C, C++, Java, MySQL  
-- <b>Web Development:</b> JavaScript (MERN — MongoDB, Express.js, React, Node.js)  
-- <b>Other Interests:</b> Cyber Security, Algorithms, Data Structures
-
-<p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,mysql,js,react,nodejs,express,mongodb,git,github,linux,vscode,postman&perline=9" alt="Languages and tools icons" />
-</p>
-
----
-
-## 🌱 Currently Learning
-
-- Full‑Stack Development (MERN)  
-- Advanced Algorithms & Data Structures  
-- Cyber Security Fundamentals
-
----
-
-## 📫 Connect with Me
-
-- GitHub: <a href="https://github.com/taslimahmedtamim">taslimahmedtamim</a>  
-- Email: <a href="mailto:taslimahmedtamim4u@gmail.com">taslimahmedtamim4u@gmail.com</a>  
-- LinkedIn: <a href="https://www.linkedin.com/in/taslim-ahmed-tamim/">Taslim Ahmed Tamim</a>
-
----
-
-## 🏆 Competitive Programming
-
-I love solving challenging problems and participating in online contests. Find me on:  
-- <a href="https://codeforces.com/profile/taslim_ahmed_tamim">Codeforces</a>  
-- <a href="https://leetcode.com/u/taslim_ahmed_tamim">LeetCode</a>  
-- <a href="https://vjudge.net/user/taslim_tamim">VJudge</a>
-
----
-
-## 📊 GitHub Stats
-
-<p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=taslimahmedtamim&theme=github_dark" height="180" alt="Most Used Languages (summary cards)" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=taslimahmedtamim&theme=github_dark" height="180" alt="GitHub Stats (summary cards)" />
-</p>
-
-<p>
-  <img src="https://streak-stats.demolab.com?user=taslimahmedtamim&theme=github-dark-blue&hide_border=true" alt="GitHub Streak for taslimahmedtamim" />
-</p>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=taslimahmedtamim&show_icons=true&theme=github_dark&hide_title=true&rank_icon=github" height="160" alt="GitHub Readme Stats for taslimahmedtamim" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taslimahmedtamim&layout=compact&theme=github_dark&hide_title=true" height="160" alt="Top Languages for taslimahmedtamim" />
-</p>
-
-<!-- Optional activity graph (uncomment if you like) -->
-<!--
-<p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=taslimahmedtamim&theme=github-compact" alt="Contribution Graph" />
-</p>
--->
-
----
-
-## 💡 Fun Fact
-
-> "Code is like humor. When you have to explain it, it’s bad." – Cory House
-
-Thanks for stopping by! 🚀
-
-<!-- Quick edits:
-- Update icons list in the Skills section to match your stack.
-- If any images don't load, open the URLs once in your browser to warm the cache.
--->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=taslimahmedtamim&" alt="taslimahmedtamim" /></p>
