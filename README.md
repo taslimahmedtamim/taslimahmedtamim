@@ -21,10 +21,10 @@ Developer • Competitive Programmer • Security Enthusiast
 ---
 
 ## 🛠️ Skills
-- Languages: C, C++, Java, MySQL
-- Web: JavaScript (PERN — PostgreSQL, Express.js, React, Node.js)
-- Markup/Typesetting: LaTeX
-- Core: Data Structures & Algorithms
+- Languages & DB: C, C++, Java, PHP, MySQL  
+- Web: JavaScript (PERN — PostgreSQL, Express.js, React, Node.js)  
+- Markup/Typesetting: LaTeX  
+- Core: Data Structures & Algorithms  
 - Tooling: Git, GitHub, VS Code
 
 ### Tech Stack (logos)
@@ -40,6 +40,7 @@ Developer • Competitive Programmer • Security Enthusiast
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="40" alt="LaTeX" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" />
@@ -50,6 +51,13 @@ Developer • Competitive Programmer • Security Enthusiast
 ## 🌱 Currently Learning
 - Linux
 - Cyber Security fundamentals
+- Exploring Python
+
+<p>
+  <!-- Learning logos -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" />
+</p>
 
 ---
 
