@@ -1,28 +1,67 @@
-<h1 align="center">Hi 👋, I'm Taslim Ahmed Tamim</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+# 👋 Hi, I'm Taslim Ahmed Tamim
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=taslimahmedtamim&label=Profile%20views&color=0e75b6&style=flat" alt="taslimahmedtamim" /> </p>
+**Student at Green University of Bangladesh (CSE)**  
+Developer • Competitive Programmer • Security Enthusiast
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=taslimahmedtamim" alt="taslimahmedtamim" /></a> </p>
-
-- 🔭 I’m currently working on **Uconnect**
-
-- 🌱 I’m currently learning **PERN Stack**
-
-- 📫 How to reach me **taslimahmedtamim.tat@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/taslimahmedtamim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="taslimahmedtamim" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/taslim_ahmed_tamim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="taslim_ahmed_tamim" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/taslim_ahmed_tamim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="taslim_ahmed_tamim" height="30" width="40" /></a>
+<p>
+  <a href="https://www.linkedin.com/in/taslim-ahmed-tamim/"><img src="https://img.shields.io/badge/LinkedIn-Taslim%20Ahmed%20Tamim-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
+  <a href="mailto:taslimahmedtamim4u@gmail.com"><img src="https://img.shields.io/badge/Email-taslimahmedtamim4u%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://github.com/taslimahmedtamim"><img src="https://img.shields.io/github/followers/taslimahmedtamim?label=Followers&style=for-the-badge" alt="GitHub Followers"></a>
+  <a href="https://github.com/taslimahmedtamim?tab=repositories&sort=stargazers"><img src="https://img.shields.io/github/stars/taslimahmedtamim?affiliations=OWNER&style=for-the-badge" alt="GitHub Stars"></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=taslimahmedtamim&show_icons=true&locale=en&layout=compact" alt="taslimahmedtamim" /></p>
+## 🚀 About Me
+- 🌱 Currently learning Full‑Stack Web Development with the MERN stack  
+- 🧠 Strong interest in Algorithms, Data Structures, and clean, scalable solutions  
+- 🛡️ Curious about Cyber Security and actively exploring fundamentals  
+- 🧩 I enjoy solving problems and participating in online contests
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=taslimahmedtamim&show_icons=true&locale=en" alt="taslimahmedtamim" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=taslimahmedtamim&" alt="taslimahmedtamim" /></p>
+## 🛠️ Skills
+- Languages: C, C++, Java, MySQL  
+- Web: JavaScript (MERN — MongoDB, Express.js, React, Node.js)  
+- Core: Data Structures & Algorithms  
+- Tooling: Git, GitHub, VS Code
+
+---
+
+## 🌱 Currently Learning
+- MERN stack, end‑to‑end project structure and deployment  
+- Advanced DSA for better problem‑solving  
+- Cyber Security fundamentals
+
+---
+
+## 🏆 Competitive Programming
+Find me on:
+- Codeforces: https://codeforces.com/profile/taslim_ahmed_tamim  
+- LeetCode: https://leetcode.com/u/taslim_ahmed_tamim  
+- VJudge: https://vjudge.net/user/taslim_tamim
+
+---
+
+## 📫 Connect
+- GitHub: https://github.com/taslimahmedtamim  
+- Email: mailto:taslimahmedtamim4u@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/taslim-ahmed-tamim/
+
+---
+
+## 📊 GitHub Stats
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=taslimahmedtamim&show_icons=true&rank_icon=github&theme=transparent" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taslimahmedtamim&layout=compact&langs_count=8&theme=transparent" alt="Top Languages" />
+</p>
+<p>
+  <img height="165" src="https://streak-stats.demolab.com?user=taslimahmedtamim&theme=transparent" alt="GitHub Streak" />
+</p>
+
+---
+
+## 💡 Fun Fact
+> "Code is like humor. When you have to explain it, it’s bad." – Cory House
+
+Thanks for stopping by! 🚀
