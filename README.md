@@ -13,40 +13,58 @@ Developer • Competitive Programmer • Security Enthusiast
 ---
 
 ## 🚀 About Me
-- 🌱 Currently learning Full‑Stack Web Development with the MERN stack  
-- 🧠 Strong interest in Algorithms, Data Structures, and clean, scalable solutions  
-- 🛡️ Curious about Cyber Security and actively exploring fundamentals  
+- 🔧 Currently building with the PERN stack (PostgreSQL • Express.js • React • Node.js)
+- 🧠 Strong interest in Algorithms, Data Structures, and clean, scalable solutions
+- 🛡️ Exploring Cyber Security fundamentals
 - 🧩 I enjoy solving problems and participating in online contests
 
 ---
 
 ## 🛠️ Skills
-- Languages: C, C++, Java, MySQL  
-- Web: JavaScript (MERN — MongoDB, Express.js, React, Node.js)  
-- Core: Data Structures & Algorithms  
+- Languages: C, C++, Java, MySQL
+- Web: JavaScript (PERN — PostgreSQL, Express.js, React, Node.js)
+- Markup/Typesetting: LaTeX
+- Core: Data Structures & Algorithms
 - Tooling: Git, GitHub, VS Code
+
+### Tech Stack (logos)
+<p>
+  <!-- PERN -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
+</p>
+<p>
+  <!-- Languages & Tools -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="40" alt="LaTeX" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" />
+</p>
 
 ---
 
 ## 🌱 Currently Learning
-- MERN stack, end‑to‑end project structure and deployment  
-- Advanced DSA for better problem‑solving  
+- Linux
 - Cyber Security fundamentals
 
 ---
 
 ## 🏆 Competitive Programming
 Find me on:
-- Codeforces: https://codeforces.com/profile/taslim_ahmed_tamim  
-- LeetCode: https://leetcode.com/u/taslim_ahmed_tamim  
-- VJudge: https://vjudge.net/user/taslim_tamim
+- [Codeforces](https://codeforces.com/profile/taslim_ahmed_tamim)
+- [LeetCode](https://leetcode.com/u/taslim_ahmed_tamim)
+- [VJudge](https://vjudge.net/user/taslim_tamim)
 
 ---
 
 ## 📫 Connect
-- GitHub: https://github.com/taslimahmedtamim  
-- Email: mailto:taslimahmedtamim4u@gmail.com  
-- LinkedIn: https://www.linkedin.com/in/taslim-ahmed-tamim/
+- GitHub: [taslimahmedtamim](https://github.com/taslimahmedtamim)
+- Email: [taslimahmedtamim4u@gmail.com](mailto:taslimahmedtamim4u@gmail.com)
+- LinkedIn: [Taslim Ahmed Tamim](https://www.linkedin.com/in/taslim-ahmed-tamim/)
 
 ---
 
