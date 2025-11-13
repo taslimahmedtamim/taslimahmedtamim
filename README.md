@@ -27,7 +27,7 @@ Developer • Competitive Programmer • Security Enthusiast
 - Core: Data Structures & Algorithms  
 - Tooling: Git, GitHub, VS Code
 
-### Tech Stack (logos)
+### Tech Stack 
 <p>
   <!-- PERN -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
