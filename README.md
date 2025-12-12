@@ -88,6 +88,6 @@ Find me on:
 ---
 
 ## 💡 Fun Fact
-> "Code is like humor. When you have to explain it, it’s bad." – Cory House
+> "I hate reading huge Question, but still wants to do CP."
 
 Thanks for stopping by! 🚀
