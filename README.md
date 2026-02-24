@@ -21,21 +21,23 @@ Aspiring Cybersecurity Professional • Competitive Programmer • Full-Stack We
   </a>
 </p>
 
----
+<br/>
 
 ## 🛡️ Cybersecurity (First Priority)
+
 I’m focused on building a career in **Cybersecurity**, with strong fundamentals and consistent hands-on practice.
 
 **Current focus:**
-- Linux, networking, and web security basics  
-- Practical labs and challenges (TryHackMe)  
-- Python for scripting and automation  
+- Linux, networking, and web security basics
+- Practical labs and challenges (TryHackMe)
+- Python for scripting and automation
 
 🔗 TryHackMe: **[soloStriker](https://tryhackme.com/p/soloStriker)**
 
----
+<br/>
 
 ## 🧠 Competitive Programming
+
 I practice CP to strengthen problem-solving, logic, and implementation skills.
 
 Find me on:
@@ -43,28 +45,31 @@ Find me on:
 - [LeetCode](https://leetcode.com/u/taslim_ahmed_tamim)
 - [VJudge](https://vjudge.net/user/taslim_tamim)
 
----
+<br/>
 
 ## 🔧 Full-Stack Development
+
 I build web applications and enjoy writing clean, scalable solutions.
 
-- Working with **PERN**: PostgreSQL • Express.js • React • Node.js  
-- Comfortable with databases, APIs, and end-to-end features  
+- Working with **PERN**: PostgreSQL • Express.js • React • Node.js
+- Comfortable with databases, APIs, and end-to-end features
 
----
+<br/>
 
 ## 🛠️ Skills
-- **Languages:** C, C++, Java, PHP, JavaScript  
-- **Databases:** PostgreSQL, MySQL  
-- **Web:** Express.js, React, Node.js  
-- **Security/Systems:** Linux, networking basics  
-- **Core:** Data Structures & Algorithms  
-- **Tools:** Git, GitHub, VS Code  
-- **Other:** LaTeX  
 
----
+- **Languages:** C, C++, Java, PHP, JavaScript
+- **Databases:** PostgreSQL, MySQL
+- **Web:** Express.js, React, Node.js
+- **Security/Systems:** Linux, networking basics
+- **Core:** Data Structures & Algorithms
+- **Tools:** Git, GitHub, VS Code
+- **Other:** LaTeX
+
+<br/>
 
 ## 💻 Tech Stack
+
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
@@ -81,16 +86,18 @@ I build web applications and enjoy writing clean, scalable solutions.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
 </p>
 
----
+<br/>
 
 ## 📫 Connect
+
 - GitHub: [taslimahmedtamim](https://github.com/taslimahmedtamim)
 - Email: [taslimahmedtamim4u@gmail.com](mailto:taslimahmedtamim4u@gmail.com)
 - LinkedIn: [Taslim Ahmed Tamim](https://www.linkedin.com/in/taslim-ahmed-tamim/)
 
----
+<br/>
 
 ## 📊 GitHub Stats
+
 <p>
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=taslimahmedtamim&show_icons=true&rank_icon=github&theme=transparent" alt="GitHub Stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taslimahmedtamim&layout=compact&langs_count=8&theme=transparent" alt="Top Languages" />
@@ -99,7 +106,8 @@ I build web applications and enjoy writing clean, scalable solutions.
   <img height="165" src="https://streak-stats.demolab.com?user=taslimahmedtamim&theme=transparent" alt="GitHub Streak" />
 </p>
 
----
+<br/>
 
 ## 💡 Fun Fact
+
 > "I hate reading huge questions, but I still want to do CP."
